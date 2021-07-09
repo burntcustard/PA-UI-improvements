@@ -1,0 +1,16 @@
+.privacy_ctrl_grp .btn_toggle {
+  margin: 0px -1px 2px 0px;
+}
+
+.privacy_ctrl_grp .btn_toggle.live {
+  z-index: 1;
+}
+
+.privacy_ctrl_grp #input_pwd {
+  margin: 0px 0px 2px 5px;
+  height: 30px;
+}
+
+.privacy_ctrl_grp #password_reveal_button {
+  right: 3px;
+}
